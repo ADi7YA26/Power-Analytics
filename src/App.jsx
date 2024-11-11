@@ -1,10 +1,10 @@
-import './App.css'
+import AppSidebar from "./components/AppSidebar"
 
 function App() {
 
   return (
     <>
-      <h1>Ugx Assignment</h1>
+      <AppSidebar/>
     </>
   )
 }
